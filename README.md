@@ -1,6 +1,8 @@
 <h1 align="center">  Meu jogo do número secreto </h1>
 
-![vitinho](https://github.com/Brunoalura29/numero-secreto/assets/166769768/af35d338-4ed1-46df-9a23-14f9fa05ee3f)
+![imagem](https://github.com/user-attachments/assets/f7cb4197-6fce-48c2-a5aa-ee6543f1fabb)
+
+
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
